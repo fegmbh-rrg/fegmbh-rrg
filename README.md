@@ -28,10 +28,10 @@ Welcome to the development repository hub for **FeGmbH**. This space focuses on 
 ### Account Performance Metrics
 
 <a href="https://github.com/fegmbh-rrg">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=fegmbh-rrg&show_icons=true&theme=dracula&count_private=true" />
+  <img height="200" align="center" src="https://github-readme-stats-one.vercel.app/api?username=fegmbh-rrg&show_icons=true&theme=dracula&count_private=true" />
 </a>
 <a href="https://github.com/fegmbh-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fegmbh-rrg&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height="200" align="center" src="https://github-readme-stats-on.vercel.app/api/top-langs?username=fegmbh-rrg&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
 ---
