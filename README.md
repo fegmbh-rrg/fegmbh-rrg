@@ -30,7 +30,7 @@ Welcome to the development repository hub for **FeGmbH**. This space focuses on 
 <a href="https://github.com/fegmbh-rrg">
   <img height="200" align="center" src="https://github-readme-stats-one.vercel.app/api?username=fegmbh-rrg&show_icons=true&theme=dracula&count_private=true" />
 </a>
-<a href="https://github.com/fegmbh-readme-stats">
+<a href="https://github.com/fegmbh-rrg">
   <img height="200" align="center" src="https://github-readme-stats-one.vercel.app/api/top-langs?username=fegmbh-rrg&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
