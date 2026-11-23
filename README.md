@@ -1,28 +1,29 @@
-# FeGmbH 
+# FeGmbH
 
-Fun fact: the rrg stands for [RailRoad Games](https://github.com/RailRoad-Games)
+Fun fact: The `rrg` in my handle stands for [RailRoad Games](https://github.com/RailRoad-Games).
 
-### Transit Simulation Engine & Backend Development Hub
+### Transit Simulation & Backend Development
 
-Welcome to the development repository hub for **FeGmbH**
+Welcome to my GitHub profile. I build backend systems, simulation engines, and custom tooling for my games.
 
 ---
 
-### Core Technical Pillars
+### Main Projects
 
-* **Underground Simulator** – Development center for high-concurrency CLI transit simulation platforms managed via native Java server architectures.
-* **TrackScript Automation Environment** – compiling and execution runtimes for a scripting platform including targeted debugging implementations - Programming language for RailRoad Games plugins
+- **Underground Simulator** – High-concurrency CLI transit simulation running on native Java server architectures.
+- **TrackScript** – Compiler, execution runtime, and debugging tools for a custom scripting language used in RailRoad Games plugins.
+
 ---
 
-### System Specifications & Environment
+### Tech Stack
 
-* **Languages & Architecture:** Java, PHP, HTML, CSS, JS, Bash
-* **Frameworks & Architecture**: Netty, Leaflet, Fabric, Folia/Paper API
-* **Network & Data Frameworks:** Netty Architecture, Leaflet Geo-Rendering
-* **System Operations:** Linux Environment Administration (Ubuntu/Debian), Java systems, PHP Sites
+- **Languages:** Java, PHP, JavaScript, HTML/CSS, Bash
+- **Frameworks & APIs:** Netty, Leaflet, Fabric, Folia / Paper API
+- **Ops & Hosting:** Linux server administration (Ubuntu/Debian), Java backends, PHP web apps
+
 ---
 
-### Account Performance Metrics
+### GitHub Stats
 
 <a href="https://github.com/fegmbh-rrg">
   <img height="200" align="center" src="https://github-readme-stats-one.vercel.app/api?username=fegmbh-rrg&show_icons=true&theme=dracula&count_private=true" />
@@ -33,6 +34,6 @@ Welcome to the development repository hub for **FeGmbH**
 
 ---
 
-### Associated Portals
+### Links
 
-* **RailRoad Games projects:** [@RailRoad-Games](https://github.com/RailRoad-Games)
+- **RailRoad Games:** [@RailRoad-Games](https://github.com/RailRoad-Games)
